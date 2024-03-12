@@ -1,0 +1,39 @@
+img {
+  width: 150px;
+  height: 150px;
+}
+h1{
+  color: #c060cd
+}
+h5{
+  font-size: 14px;
+  text-align: center;
+}
+body{
+  background-color: peachpuff;
+}
+hr{
+  border-color: #a72f2f;
+}
+p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#flowers{
+  text-align: center;
+}
+#intro{
+  text-align: center;
+  color: #65aab8;
+}
+#credit{
+  font-size: 12px;
+}
+#rose{
+  color: 	#ce1440;
+}
+#hibiscus{
+  color: 	#F33A6A;
+}
+#rafflesia{
+  color: #A8422D
+}
